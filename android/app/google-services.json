@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "277324981947",
+    "project_id": "starbucks-43295",
+    "storage_bucket": "starbucks-43295.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:277324981947:android:65a31323f772baf27f2b9e",
+        "android_client_info": {
+          "package_name": "id.topawijaya.starbucks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "277324981947-hq0vgrhvguq7tgsum5rr8n68h8nr7kl9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "id.topawijaya.starbucks",
+            "certificate_hash": "4491d4a0ddfa0905a155e5ae575021a9efdf9388"
+          }
+        },
+        {
+          "client_id": "277324981947-3ksd2ag0033aalussj8qumkmlk0ggglj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBc3I04yZLQLhqs0qd8UKRVtDoWaGAZ5ag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "277324981947-3ksd2ag0033aalussj8qumkmlk0ggglj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
